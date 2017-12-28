@@ -1,6 +1,6 @@
 
 	    *{
-    	font-family: Helvetica;
+	    	font-family: Helvetica;
 	    }
 	 	  /*Base style*/
 	    @media(max-width: 767px){
@@ -30,7 +30,7 @@
 		  .section1, .section2, .section3{
 
 		  	box-sizing: border-box;
-		  	height: 400px;
+		  	height: fixed;
 		  	width: 95%;
 		    border: 1px solid black;
 		  	float: left;
@@ -83,7 +83,7 @@
 		  .section1, .section2, .section3{
 
 		  	box-sizing: border-box;
-		  	height: 400px;
+		  	height: fixed;
 		  	width: 28%;
 		    border: 1px solid black;
 		  	float: left;
@@ -129,7 +129,7 @@
 		  .section1, .section2{
 
 		  	box-sizing: border-box;
-		  	height: 300px;
+		  	height: fixed;
 		  	width: 44%;
 		    border: 1px solid black;
 		  	float: left;
@@ -141,7 +141,7 @@
 		  .section3{
 		  	margin-top: 50px;
 		  	 box-sizing: border-box;
-		  	height: 400px;
+		  	height: fixed;
 		  	width:  92.15%;
 		    border: 1px solid black;
 		  	float: left;
