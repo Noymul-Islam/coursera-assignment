@@ -1,0 +1,166 @@
+
+	    *{
+    	font-family: Helvetica;
+	    }
+	 	  /*Base style*/
+	    @media(max-width: 767px){
+	     h1{
+	    	margin-bottom:  50px;
+	    	text-align: center;
+		  }
+		  h3{
+            
+		  	box-sizing: border-box;
+
+		  	width: 100px;
+		  	margin-top:0px; 
+		    float: right;
+		  	font-size: 125%;
+            border: 1.5px solid black;
+		    text-align: center; 
+		    background-color: grey;
+		    overflow-x: auto ;
+		  }
+		  .h31{
+		  	background-color: #808000;
+		  }
+		  .h32{
+		  	background-color: #008000;
+		  }
+		  .section1, .section2, .section3{
+
+		  	box-sizing: border-box;
+		  	height: 400px;
+		  	width: 95%;
+		    border: 1px solid black;
+		  	float: left;
+		  	background-color: #FFA500; 
+		  	margin-left:30px;
+		  	
+		  
+		  }
+		  .section2,.section3{
+		  	margin-top: 25px;
+		  }
+		 
+		  div {
+		  	padding: 10px;
+		  	height: 68%;
+		  	overflow: auto;
+		  	clear: right;
+		  }
+		  #divId {
+
+		  	/*align-content: center;*/
+		  	padding: 50px;
+		  }
+}
+
+	    @media(min-width: 992px){
+	    	 h1{
+	    	margin-bottom: 50px;
+	    	text-align: center;
+		  }
+		  h3{
+            
+		  	box-sizing: border-box;
+
+		  	width: 100px;
+		  	margin-top:0px; 
+		    float: right;
+		  	font-size: 125%;
+            border: 1.5px solid black;
+		    text-align: center; 
+		    background-color: grey;
+		    overflow-x: auto ;
+		  }
+		  .h31{
+		  	background-color: #808000;
+		  }
+		  .h32{
+		  	background-color: #008000;
+		  }
+		  .section1, .section2, .section3{
+
+		  	box-sizing: border-box;
+		  	height: 400px;
+		  	width: 28%;
+		    border: 1px solid black;
+		  	float: left;
+		  	background-color: #FFA500; 
+		  	margin-left:30px;
+		  	
+		  
+		  }
+		 
+		  div {
+		  	padding: 10px;
+		  	height: 68%;
+		  	overflow: auto;
+		  	clear: right;
+		  }
+		  #divId {
+/*
+		  	align-content: center;*/
+		 	margin-left: 7%;
+		  	padding: 50px;
+		  }
+
+	    }
+	    
+	    @media (min-width: 768px) and (max-width: 991px){
+	    	 h1{
+	    	margin-bottom:  50px;
+	    	text-align: center;
+		  }
+		  h3{
+            
+		  	box-sizing: border-box;
+
+		  	width: 100px;
+		  	margin-top:0px; 
+		    float: right;
+		  	font-size: 125%;
+            border: 1.5px solid black;
+		    text-align: center; 
+		    background-color: grey;
+		    overflow-x: auto ;
+		  }
+		  .section1, .section2{
+
+		  	box-sizing: border-box;
+		  	height: 300px;
+		  	width: 44%;
+		    border: 1px solid black;
+		  	float: left;
+		  	background-color: #FFA500; 
+		  	margin-left:30px;
+		  	
+		  
+		  }
+		  .section3{
+		  	margin-top: 50px;
+		  	 box-sizing: border-box;
+		  	height: 400px;
+		  	width:  92.15%;
+		    border: 1px solid black;
+		  	float: left;
+		  	background-color: #FFA500; 
+		  	margin-left:30px;
+		  	
+
+		  }
+		  div {
+		  	padding: 10px;
+		  	height: 68%;
+		  	overflow: auto;
+		  	clear: right;
+		  }
+		  #divId {
+
+		  	/*align-content: center;*/
+		  	/*margin-left: 5%;*/
+		  	padding: 50px;
+		  }
+
+	    }
